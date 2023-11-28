@@ -21,7 +21,7 @@
     },
     "resourceName": {
       "type": "string",
-      "defaultValue": "DevOpsDemo-murat-101",
+      "defaultValue": "DevOpsDemO-murat-10",
       "metadata": {
         "description": "Name of the main resource to be created by this template."
       }
